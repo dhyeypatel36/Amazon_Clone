@@ -6,6 +6,7 @@
 
 .border{
     border: 2px solid transparent;
+    cursor: pointer;
 }
 
 .border:hover{
