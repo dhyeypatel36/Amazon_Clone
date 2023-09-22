@@ -19,7 +19,6 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    cursor: pointer;
 }
 
 
@@ -189,14 +188,13 @@
     font-size: 14px;
     justify-content: flex-start;
     font-weight: 400;
-    cursor: pointer;
 }
 
 .menubar{
     display: flex;
     margin-left: 10px;
     margin-right: 10px;
-    transition: ease-in 1s;
+    cursor: pointer;
 }
 
 .panelop p{
@@ -204,12 +202,15 @@
     display: inline;
     margin-right: 10px;
     width: 70%;
+    cursor: pointer;
+    transition: ease-in 0.5s;
 }
 
 .deals{
     font-weight: 700;
     position: absolute;
     right: 20px;
+    cursor: pointer;
 }
 
 #im{
