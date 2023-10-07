@@ -160,6 +160,11 @@
     font-size: 12px;
 }
 
+    .accountsign a {
+        text-decoration: none;
+        color: white;
+    }
+
 .accountlist{
     font-size: 14px;
     font-weight: bold;
