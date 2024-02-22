@@ -4,14 +4,14 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.border{
+/* .border{
     border: 2px solid transparent;
     cursor: pointer;
 }
 
 .border:hover{
     border: 1.5px solid white;
-}
+} */
 
 .topnavbar{
     background-color: #0f1111;
@@ -522,6 +522,3 @@
     #copyright-footer-notice{
         padding: 5px 0px 0px 0px;
     }
-
-
-        
